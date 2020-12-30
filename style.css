@@ -1,0 +1,14 @@
+.main{
+  border: 5px solid black;
+  margin: auto;
+  height: 500px;
+  
+}
+.form{
+  margin-left: 30px;
+}
+.form h1{
+  text-align: center;
+  margin-top: 0px;
+  margin-left: 0px;
+}
